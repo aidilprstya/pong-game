@@ -1,2 +1,2 @@
-# pong-game
-A simple Pong game with HTML, CSS, and JavaScript
+# a24
+album prelease single by @aidill.
